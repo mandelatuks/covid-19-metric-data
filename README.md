@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# COVID METRICS WEBAPP
 
-> One paragraph statement about the project.
+>This is a webapp that display metric data from an API for covid 19 specifically for Africa countries
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,50 +10,58 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript, HTML, CSS
+- React
+- Redux
+- API
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
+## Project Description
 
-## Getting Started
+Click here to watch a [video]() that gives a brief description of the project
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## Getting Started with Create React App
 
+**Installation**
+- Clone the repository
+~~~
+git clone 
+~~~
+- Install NPM packages
+~~~
+npm install
+~~~
+- Run server
+~~~
+npm start
+~~~
+## Available Scripts
 
-To get a local copy up and running follow these simple example steps.
+In the project directory, you can run:
 
-### Prerequisites
+### `npm start`
 
-### Setup
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Install
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Usage
+### `npm test`
 
-### Run tests
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Deployment
+## Author
 
+👤 **Mandela Tumukunde**
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mandelatuks](https://github.com/mandelatuks)
+- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
+- LinkedIn: [@Mandela Tumukunde](https://www.linkedin.com/in/mandela-tumukunde-794755194/)
 
 ## 🤝 Contributing
 
@@ -69,7 +77,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- UI Inspired by [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) on Behance
 
 ## 📝 License
 
