@@ -28,7 +28,9 @@ Click here to watch a [video]() that gives a brief description of the project
 **Installation**
 - Clone the repository
 ~~~
-git clone 
+git clone git@github.com:mandelatuks/covid-19-metric-data.git
+
+cd covid-19-metric-data
 ~~~
 - Install NPM packages
 ~~~
