@@ -32,15 +32,17 @@ const HomePage = () => {
     <div className="pages">
       <h1 className="area"> Europe</h1>
       <form className="form">
-        <FaSearchLocation />
-        <div>
-          <input
-            className="input-area"
-            type="text"
-            value={searchValue}
-            placeholder="Search Here"
-            onChange={countryFilterOnChange}
-          />
+        <div className="search-bar">
+          <FaSearchLocation />
+          <div>
+            <input
+              className="input-area"
+              type="text"
+              value={searchValue}
+              placeholder="Search Here"
+              onChange={countryFilterOnChange}
+            />
+          </div>
         </div>
       </form>
       <ul className="list-country">

@@ -21,7 +21,7 @@ color: #e6e6f6;
 background-color: #4369b2;
 padding: 24px;
 color: #e6e6f6;
-}
+} 
 
 h1{
   margin: 0 auto;
@@ -31,4 +31,95 @@ h1{
   display: flex;
   gap: 20px;
 }
+
+.pages{
+  background-color: #3d60a2;
+}
+
+.area {
+  text-align: center;
+  color: #e6e6f6;
+}
+
+.form{
+ display: flex;
+    align-items: center;
+    gap: 10px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 10px;
+    background-color: #d0d4db;
+  
+}
+
+.list-country{
+ display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.list-details {
+text-decoration: none;
+  list-style: none;
+  color: #fff;
+}
+
+.list-country a:nth-child(4n),
+.list-country a:nth-child(4n + 1) {
+  background-color: #5687e4;
+  color: #fff;
+}
+
+ .national-flag {
+      width: 60px;
+    height: 40px;
+}
+
+.name {
+  font-size: 20px;
+  margin: 0;
+}
+
+.pupalution{
+   font-size: 20px;
+}
+
+.Container{
+  background-color: #3d60a2;
+  color: #fff;
+}
+
+.continent,
+.today,
+.total
+  {
+  text-align: center;
+   list-style: none;
+}
+
+.Arrow{
+  color: #fff;
+}
+
+.search-bar{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+  @media (min-width: 768px) {
+    .list-details{
+      display: flex;
+      justify-content: space-between;
+    }
+
+  }
+
+
 
