@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
-body{
+body {
   margin: 0;
 }
 
@@ -11,28 +11,28 @@ nav div {
   padding: 5px 20px;
 }
 
-.navItems{
-background-color: #5788e5;
-padding: 24px;
-color: #e6e6f6;
+.navItems {
+  background-color: #5788e5;
+  padding: 24px;
+  color: #e6e6f6;
 }
 
-.navItems1{
-background-color: #4369b2;
-padding: 24px;
-color: #e6e6f6;
-} 
+.navItems1 {
+  background-color: #4369b2;
+  padding: 24px;
+  color: #e6e6f6;
+}
 
-h1{
+h1 {
   margin: 0 auto;
 }
 
-.icons{
+.icons {
   display: flex;
   gap: 20px;
 }
 
-.pages{
+.pages {
   background-color: #3d60a2;
 }
 
@@ -41,31 +41,30 @@ h1{
   color: #e6e6f6;
 }
 
-.form{
- display: flex;
-    align-items: center;
-    gap: 10px;
-    border-top: 2px solid white;
-    border-bottom: 2px solid white;
-    padding: 10px;
-    background-color: #d0d4db;
-  
+.form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  padding: 10px;
+  background-color: #d0d4db;
 }
 
-.list-country{
- display: grid;
+.list-country {
+  display: grid;
   grid-template-columns: 50% 50%;
   gap: 2px;
   padding-left: 10px;
   padding-right: 10px;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
 .list-details {
-text-decoration: none;
+  text-decoration: none;
   list-style: none;
   color: #fff;
 }
@@ -76,9 +75,9 @@ text-decoration: none;
   color: #fff;
 }
 
- .national-flag {
-      width: 60px;
-    height: 40px;
+.national-flag {
+  width: 60px;
+  height: 40px;
 }
 
 .name {
@@ -86,40 +85,35 @@ text-decoration: none;
   margin: 0;
 }
 
-.pupalution{
-   font-size: 20px;
+.pupalution {
+  font-size: 20px;
 }
 
-.Container{
+.Container {
   background-color: #3d60a2;
   color: #fff;
 }
 
 .continent,
 .today,
-.total
-  {
+.total {
   text-align: center;
-   list-style: none;
+  list-style: none;
 }
 
-.Arrow{
+.Arrow {
   color: #fff;
 }
 
-.search-bar{
+.search-bar {
   display: flex;
   justify-content: center;
   margin: 0 auto;
 }
 
-  @media (min-width: 768px) {
-    .list-details{
-      display: flex;
-      justify-content: space-between;
-    }
-
+@media (min-width: 768px) {
+  .list-details {
+    display: flex;
+    justify-content: space-between;
   }
-
-
-
+}
