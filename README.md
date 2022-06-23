@@ -4,7 +4,9 @@
 
 >This is a webapp that display metric data from an API for covid 19 specifically for Africa countries
 
-![screenshot](./app_screenshot.png)
+![image](https://user-images.githubusercontent.com/38649067/175274448-0b16aa5a-6265-4e83-b366-db5bbd6ae751.png)
+![image](https://user-images.githubusercontent.com/38649067/175274605-2516aff5-f1cc-497d-8828-7dc034d7f202.png)
+
 
 Additional description about the project and its features.
 
