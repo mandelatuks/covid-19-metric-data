@@ -19,11 +19,11 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://resilient-gaufre-706d82.netlify.app/)
 
 ## Project Description
 
-Click here to watch a [video]() that gives a brief description of the project
+Click here to watch a [video](https://www.loom.com/share/7c9ed7b919cc400cbf21ba073ad5e462) that gives a brief description of the project
 
 ## Getting Started with Create React App
 
